@@ -12,3 +12,6 @@ Le rapport est disponible sur le wiki lié à ce repository : https://github.com
 
 ## Note
 Une version de Visual Turing a été encapsulée afin de fonctionner sur mac. Une demande a été faite à l'auteur original afin de distribuer cette version sous forme de binaire (le code source étant en vente).
+  
+La boite mail de l'auteur n'existant plus, je me permets de publier une version pour OsX (10.13) wrappée de visual turing ici :
+https://github.com/antonin07130/algocomp/raw/master/binaries/visualturing_mac_HighSierra.app.zip

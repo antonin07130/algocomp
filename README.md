@@ -1,7 +1,7 @@
 # algocomp
 Mini projet d'algorithmie utilisant le simulateur de machine de Turing "Visual Turing"
 
-## Exectuter le projet
+## Executer le projet
 
 Le projet est contenu dans le fichier .tur à la racine de ce repository.
 
